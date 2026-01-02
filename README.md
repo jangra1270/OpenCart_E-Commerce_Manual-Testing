@@ -27,9 +27,4 @@ This project is dedicated to manual testing of the OpenCart web application. It 
 | RTM(Opencart).xlsx | This Excel file probably contains the Requirement Traceability Matrix document related to web registration functionality in OpenCart. It likely includes requirement ID, requirement description, test scenario ID and description, test cases, test result, defect ID, and also the summary report. |
 | BugReport(OpenCart).xlsx | This Excel file is likely used for tracking and documenting software bugs and issues found during testing. It may include details such as bug descriptions, severity, status, and steps to reproduce. |
 
-## Contributions:
-
-Contributions are welcome! Feel free to submit issues, enhancements, or suggestions to improve the manual testing process for OpenCart.
-Happy Manual Testing! 🚀
-
 
